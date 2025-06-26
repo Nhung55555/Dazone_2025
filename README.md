@@ -1,11 +1,15 @@
 # Dazone_2025
 Team members: 
 Nguyễn Ngọc Gia Linh (Team lead)
+
 Nguyễn Gia Huy
+
 Phạm Thị Cẩm Nhung 
+
 
 Contributions:
 Round 2: ....
+
 Round 3: ....
 
 The dataset is too large so we update it to drive: 
