@@ -17,7 +17,7 @@ Due to the large size of the datasets, data files are hosted externally (links b
 
 ---
 
-### Round 2: E-commerce Challenge
+### Round 2: E-commerce Purchasing Behavior
 
 In this round, teams are tasked with developing models and analytical solutions to solve key challenges in the e-commerce domain.  
 This involves working with large-scale transactional data to understand customer behavior, improve recommendations, and optimize online retail performance.
